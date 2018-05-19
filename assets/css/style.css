@@ -1,0 +1,38 @@
+.display-4 {
+    color: lightgreen;
+}
+
+.lead {
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+}
+
+.jumbotron-centered {
+    background-color: teal;
+    margin: 0px 50px 0px 50px;
+}
+
+
+
+body {
+    text-decoration-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: fuchsia;
+}
+
+.list-group {
+    font-family: cursive;
+    font-size: 22px;
+    color: blue;
+}
+
+.userWins {
+    background-color: lightskyblue;
+}
+
+.p-3 {
+    margin : 0px 50px 0px 50px;
+}
